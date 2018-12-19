@@ -1,0 +1,22 @@
+#Mapping values
+#Tue Nov 20 11:55:45 IST 2018
+App\ Access=App_Access__c
+Floor=Floor__c
+Cost=Cost__c
+One\ Time\ Setup\ Cost=One_Time_Set_Up_Cost__c
+Exterior=Exterior__c
+Name=Name
+No\ Of\ hours=No_Of_Hours__c
+Interior=Interior__c
+Printing\ Credits=Priniting_Credits__c
+Unit\ Number=Unit_No__c
+No\ of\ Units=No_of_Desks__c
+Unit\ Type=Unit_Type__c
+Availability=Availability__c
+ZOPA\ Limit=ZOPA_Limit__c
+Centre\ ID=Centre__c
+Is\ Inventory=Is_Inventory__c
+Record\ Type\ ID=RecordTypeId
+Conference\ Credits=Conference_Credits__c
+Description=Description__c
+One\ Time\ Setup\ Cost/Desk=One_Time_Set_Up_Desk__c

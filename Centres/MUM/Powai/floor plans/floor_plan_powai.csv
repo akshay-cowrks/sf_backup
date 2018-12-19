@@ -1,0 +1,4 @@
+Centre ID,Name,Unit Number,Unit Type,No of Units,Interior,Exterior,Availability,Cost,ZOPA Limit,Floor,Description,Record Type ID,Is Inventory,App Access,Printing Credits,Conference Credits,No Of hours,One Time Setup Cost/Desk,One Time Setup Cost
+a030I00000eFY0wQAG,NCR/GC/PS/06/059,59,Private Studio,6,1,0,Available,210000,192000,6,Interior Private Studio,01228000000uMGu,1,1,240,150,24,3499,20994
+a030I00000eFY0wQAG,NCR/GC/PS/06/060,60,Private Studio,12,1,0,Available,420000,384000,6,Interior Private Studio,01228000000uMGu,1,1,480,300,24,3499,41988
+a030I00000eFY0wQAG,NCR/GC/PS/06/061,61,Private Studio,15,1,0,Available,525000,480000,6,Interior Private Studio,01228000000uMGu,1,1,600,375,24,3499,52485

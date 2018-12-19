@@ -1,0 +1,12 @@
+Centre ID,Name,Unit Number,Unit Type,No of Units,Interior,Exterior,Availability,Cost,ZOPA Limit,Floor,Description,Record Type ID,Is Inventory,App Access,Printing Credits,Conference Credits,No Of hours,One Time Setup Cost/Desk,One Time Setup Cost
+a030I00000tGebD,HYD/SV/PS/02/001,1,Private Studio,27,1,0,Available,566973,485973,2,Interior Private Studio,01228000000uMGu,1,1,1080,675,24,3499,94473
+a030I00000tGebD,HYD/SV/PS/02/001,2,Private Studio,48,0,1,Available,1007952,863952,2,Exterior Private Studio,01228000000uMGu,1,1,1920,1200,24,3499,167952
+a030I00000tGebD,HYD/SV/PS/02/001,3,Private Studio,59,1,0,Available,1238941,1061941,2,Interior Private Studio,01228000000uMGu,1,1,2360,1475,24,3499,206441
+a030I00000tGebD,HYD/SV/PS/02/001,4,Private Studio,41,1,0,Available,860959,737959,2,Interior Private Studio,01228000000uMGu,1,1,1640,1025,24,3499,143459
+a030I00000tGebD,HYD/SV/PS/02/001,5,Private Studio,52,0,1,Available,1091948,935948,2,Exterior Private Studio,01228000000uMGu,1,1,2080,1300,24,3499,181948
+a030I00000tGebD,HYD/SV/PS/02/001,6,Private Studio,35,0,1,Available,734965,629965,2,Exterior Private Studio,01228000000uMGu,1,1,1400,875,24,3499,122465
+a030I00000tGebD,HYD/SV/PS/02/001,7,Private Studio,80,0,1,Available,1679920,1439920,2,Exterior Private Studio,01228000000uMGu,1,1,3200,2000,24,3499,279920
+a030I00000tGebD,HYD/SV/PS/02/001,8,Private Studio,76,0,1,Available,1595924,1367924,2,Exterior Private Studio,01228000000uMGu,1,1,3040,1900,24,3499,265924
+a030I00000tGebD,HYD/SV/PS/02/001,9,Private Studio,44,1,0,Available,923956,791956,2,Interior Private Studio,01228000000uMGu,1,1,1760,1100,24,3499,153956
+a030I00000tGebD,HYD/SV/PS/02/001,10,Private Studio,86,1,0,Available,1805914,1547914,2,Interior Private Studio,01228000000uMGu,1,1,3440,2150,24,3499,300914
+a030I00000tGebD,HYD/SV/PS/02/001,11,Private Studio,78,0,1,Available,1637922,1403922,2,Exterior Private Studio,01228000000uMGu,1,1,3120,1950,24,3499,272922
