@@ -1,0 +1,3150 @@
+Inventory: Name,Floor,Status,No of Units,Exterior,Exterior Patio,Interior,Centre: Name,Unit Type
+NCR/AC/PS/01/017,01,Available,48,1,,0,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/018,01,Available,4,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/019,01,Available,4,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/020,01,Available,4,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/021,01,Available,4,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/022,01,Available,12,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/023,01,Blocked,11,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/024,01,Available,24,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/025,01,Available,2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/026,01,Available,2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/027,01,Available,2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/028,01,Available,1,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/029,01,Available,2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/030,01,Available,2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/031,01,Available,2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/032,01,Available,1,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/033,01,Available,2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/034,01,Available,2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/035,01,Available,3,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/036,01,Available,4,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/037,01,Available,2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/038,01,Available,3,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/039,01,Available,4,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/040,01,Available,2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/041,01,Available,1,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/042,01,Available,2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/043,01,Available,2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/044,01,Available,2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/045,01,Available,7,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/046,01,Available,8,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/047,01,Available,7,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/048,01,Available,4,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/049,01,Available,21,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/050,01,Available,6,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/051,01,Available,6,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/052,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/053,01,Available,1,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/054,01,Available,1,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/055,01,Blocked,1,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/056,01,Available,43,1,,0,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/057,01,Available,8,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/058,01,Available,5,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/059,01,Available,6,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/060,01,Available,6,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/061,01,Booked (Locked In),2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/062,01,Available,42,1,,0,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/063,01,Available,51,1,,0,CoWrks Aerocity,Private Studio
+NCR/AC/PS/00/005,00,Available,8,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/00/006,00,Available,7,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/00/007,00,Available,3,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/00/008,00,Available,4,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/00/009,00,Booked (Locked In),3,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/00/010,00,Available,64,1,,0,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/011,01,Available,36,1,,0,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/012,01,Available,38,1,,0,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/013,01,Available,38,1,,0,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/014,01,Available,36,1,,0,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/015,01,Available,40,1,,0,CoWrks Aerocity,Private Studio
+NCR/AC/PS/01/016,01,Available,37,1,,0,CoWrks Aerocity,Private Studio
+NCR/AC/PS/00/001,00,Available,27,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/00/002,00,Available,2,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/00/003,00,Available,1,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/PS/00/004,00,Available,7,0,,1,CoWrks Aerocity,Private Studio
+NCR/AC/DD/01/001,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/002,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/003,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/004,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/005,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/006,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/007,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/008,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/009,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/010,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/011,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/012,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/013,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/014,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/015,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/016,01,Booked (Locked In),1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/017,01,Available,1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/018,01,Available,1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/019,01,Available,1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/020,01,Available,1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/021,01,Available,1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/022,01,Available,1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/023,01,Available,1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/024,01,Available,1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/DD/01/025,01,Available,1,0,,1,CoWrks Aerocity,Dedicated Desk
+NCR/AC/CL/00/001,00,Booked (Locked In),1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/002,00,Blocked,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/003,00,Blocked,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/004,00,Blocked,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/005,00,Blocked,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/029,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/030,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/031,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/032,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/033,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/034,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/035,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/036,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/037,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/038,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/006,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/007,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/008,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/009,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/010,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/011,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/012,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/013,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/014,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/015,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/016,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/017,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/018,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/019,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/020,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/021,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/022,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/023,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/024,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/025,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/026,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/027,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/CL/00/028,00,Available,1,0,,1,CoWrks Aerocity,Lounge
+NCR/AC/VO/00/001,N/A,Blocked,1,,,,CoWrks Aerocity,Virtual Office
+NCR/AC/VO/00/004,N/A,Available,1,,,,CoWrks Aerocity,Virtual Office
+NCR/AC/VO/00/003,N/A,Available,1,,,,CoWrks Aerocity,Virtual Office
+NCR/AC/VO/00/005,N/A,Available,1,,,,CoWrks Aerocity,Virtual Office
+NCR/AC/VO/00/002,N/A,Available,1,,,,CoWrks Aerocity,Virtual Office
+NCR/AC/LK/00/001,N/A,Available,1,,,,CoWrks Aerocity,Lockers
+NCR/PT/PS/2B/001,2B,Available,25,1,,0,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/002,2B,Available,18,0,,1,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/003,2B,Available,17,0,,1,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/004,2B,Available,16,1,,0,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/005,2B,Available,5,1,,0,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/006,2B,Available,6,1,,0,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/007,2B,Available,6,1,,0,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/008,2B,Available,43,1,,0,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/009,2B,Available,12,0,,1,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/010,2B,Available,12,0,,1,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/011,2B,Blocked,2,0,,1,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/012,2B,Available,1,0,,1,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/013,2B,Available,4,0,,1,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/014,2B,Available,4,0,,1,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/015,2B,Available,11,0,,1,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/016,2B,Available,12,0,,1,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/2B/017,2B,Available,15,1,,0,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/042,02,Booked (Locked In),10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/043,02,Available,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/044,02,Booked (Locked In),10,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/045,02,Booked (Locked In),10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/046,02,Blocked,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/047,02,Available,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/048,02,Booked (Locked In),10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/049,02,Booked (Locked In),2,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/050,02,Booked (Locked In),4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/051,02,Booked (Locked In),4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/052,02,Booked (Locked In),9,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/00/001,00,Booked (Locked In),2,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/00/002,00,Formal Notice,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/00/003,00,Formal Notice,10,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/00/004,00,Formal Notice,10,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/00/005,00,Booked (Locked In),4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/00/006,00,Booked (Locked In),4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/00/007,00,Available,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/00/008,00,,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/00/009,00,,4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/00/010,00,,4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/00/011,00,,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/00/012,00,,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/00/013,00,,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/014,01,,10,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/015,01,,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/016,01,,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/017,01,,10,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/018,01,,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/019,01,,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/020,01,,10,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/021,01,,10,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/022,01,,2,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/023,01,,4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/024,01,,4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/025,01,,9,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/026,01,,3,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/027,01,,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/028,01,,4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/029,01,,4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/030,01,,9,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/031,01,,4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/032,01,,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/033,01,,4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/034,01,,10,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/035,01,,10,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/036,01,,12,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/037,01,,12,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/038,01,,12,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/039,01,,11,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/01/040,01,,21,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/041,02,,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/053,02,,3,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/054,02,,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/055,02,,4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/056,02,,4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/057,02,,9,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/058,02,,4,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/059,02,,10,No,,Yes,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/060,02,,21,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/061,02,,11,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/062,02,,12,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/063,02,,12,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/064,02,,12,Yes,,No,CoWrks Golf Course Road,Private Studio
+NCR/PT/PS/02/065,02,,10,Yes,,No,CoWrks Golf Course Road,Private Studio
+BLR/IN/DD/5B/0010,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0011,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0012,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0013,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0014,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0015,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0016,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0017,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0018,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0019,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+NCR/PT/DD/01/003,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/002,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/001,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/004,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/005,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/006,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/007,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/008,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/009,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/010,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/011,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/012,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/013,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/014,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/015,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/016,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/017,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/018,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/019,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/020,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/021,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/022,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/023,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/024,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/025,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/026,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/027,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/028,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/029,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/030,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/031,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/032,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/033,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/01/034,01,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/035,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/036,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/037,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/038,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/039,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/040,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/041,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/042,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/043,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/044,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/045,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/046,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/047,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/048,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/049,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/050,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/051,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/052,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/053,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/054,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/055,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/056,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/057,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/058,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/059,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/060,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/061,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/DD/02/062,02,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/FD/00/001,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/002,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/003,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/004,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/005,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/006,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/007,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/008,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/009,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/010,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/011,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/013,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/014,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/015,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/016,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/017,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/018,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/019,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/020,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/021,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/022,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/023,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/024,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/025,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/026,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/012,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/027,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/028,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/029,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/030,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/031,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/032,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/033,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/034,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/035,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+NCR/PT/FD/00/036,00,,1,No,,Yes,CoWrks Golf Course Road,Flexible Desk
+Community Lounge - 5,N/A,N/A,1,,,,CoWrks Golf Course Road,Lounge
+Community Lounge - 4,N/A,N/A,1,,,,CoWrks Golf Course Road,Lounge
+Community Lounge - 3,N/A,N/A,1,,,,CoWrks Golf Course Road,Lounge
+Community Lounge - 1,N/A,N/A,1,,,,CoWrks Golf Course Road,Lounge
+Community Lounge - 2,N/A,N/A,1,,,,CoWrks Golf Course Road,Lounge
+NCR/PT/CP/00/038,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/039,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/040,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/041,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/042,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/043,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/044,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/045,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/046,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/047,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/048,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/049,N/A,,2,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/050,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/051,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/052,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/053,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/054,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/055,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/001,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/002,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/003,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/004,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/005,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/006,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/007,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/008,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/009,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/010,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/011,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/012,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/013,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/014,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/015,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/016,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/017,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/018,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/019,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/020,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/021,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/022,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/023,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/024,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/025,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/026,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/027,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/028,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/029,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/030,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/031,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/032,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/033,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/034,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/035,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/036,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/037,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+NCR/PT/CP/00/038,N/A,,1,,,,CoWrks Golf Course Road,Car Parking
+Telephony,N/A,N/A,1,,,,CoWrks Golf Course Road,Telephony
+Telephony,N/A,N/A,1,,,,CoWrks Golf Course Road,Telephony
+NCR/PT/VO/00/001,N/A,,1,,,,CoWrks Golf Course Road,Virtual Office
+NCR/PT/VO/00/002,N/A,,1,,,,CoWrks Golf Course Road,Virtual Office
+NCR/PT/LK/00/003,N/A,,1,,,,CoWrks Golf Course Road,Lockers
+NCR/PT/LK/00/005,N/A,,1,,,,CoWrks Golf Course Road,Lockers
+NCR/PT/LK/00/004,N/A,,1,,,,CoWrks Golf Course Road,Lockers
+NCR/PT/LK/00/001,N/A,,1,,,,CoWrks Golf Course Road,Lockers
+NCR/PT/LK/00/002,N/A,,1,,,,CoWrks Golf Course Road,Lockers
+NCR/PT/CL/2B/001,2B,,5,0,,1,CoWrks Golf Course Road,Community Lounge
+NCR/PT/RU/00/001,N/A,,1,No,,,CoWrks Golf Course Road,IT Rack Unit
+BLR/KO/PS/05/004,05,,24,Yes,,,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/001,05,,29,1,,0,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/002,05,,37,1,,0,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/003,05,,34,1,,0,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/014,05,,1,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/005,05,,4,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/007,05,,8,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/013,05,,2,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/006,05,,8,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/012,05,,2,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/008,05,,8,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/011,05,,2,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/009,05,,8,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/010,05,,2,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/015,05,,35,1,,0,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/016,05,,12,1,,0,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/018,05,,5,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/019,05,,4,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/021,05,,6,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/022,05,,4,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/023,05,,2,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/024,05,,7,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/025,05,,4,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/026,05,,4,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/027,05,,4,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/028,05,,6,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/029,05,,5,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/030,05,,6,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/031,05,,7,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/032,05,,19,1,,0,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/033,05,,30,1,,0,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/034,05,,3,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/035,05,,1,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/036,05,,2,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/037,05,,1,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/038,05,,2,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/039,05,,1,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/040,05,,2,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/041,05,,1,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/042,05,,2,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/043,05,,1,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/044,05,,2,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/045,05,,6,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/046,05,,6,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/047,05,,8,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/048,05,,8,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/049,05,,5,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/050,05,,6,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/051,05,,6,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/052,05,,3,0,,1,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/053,05,,52,1,,0,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/054,05,,23,1,,0,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/055,05,,25,1,,0,CoWrks Koramangala,Private Studio
+BLR/KO/PS/05/056,05,,40,No,,Yes,CoWrks Koramangala,Private Studio
+BLR/KO/DD/05/001,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/002,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/003,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/004,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/005,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/006,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/007,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/008,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/009,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/010,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/011,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/012,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/013,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/014,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/015,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/016,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/017,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/018,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/DD/05/019,05,,1,0,,1,CoWrks Koramangala,Dedicated Desk
+BLR/KO/CL/00/001,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/002,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/003,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/004,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/005,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/006,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/007,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/008,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/009,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/010,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/011,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/012,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/013,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/014,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/015,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/016,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/017,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/018,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/019,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CL/00/020,00,,1,0,,1,CoWrks Koramangala,Lounge
+BLR/KO/CP/00/022,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/012,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/009,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/014,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/026,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/011,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/023,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/029,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/030,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/031,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/032,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/033,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/034,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/035,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/036,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/006,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/002,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/007,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/005,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/001,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/003,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/004,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/008,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/010,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/015,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/017,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/019,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/027,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/020,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/016,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/018,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/024,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/013,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/021,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/025,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/CP/00/028,N/A,,1,,,,CoWrks Koramangala,Car Parking
+BLR/KO/VO/05/002,N/A,,1,,,,CoWrks Koramangala,Virtual Office
+BLR/KO/VO/05/003,N/A,,1,,,,CoWrks Koramangala,Virtual Office
+BLR/KO/VO/05/001,N/A,,1,,,,CoWrks Koramangala,Virtual Office
+BLR/MN/PS/00/008,00,,10,No,,Yes,CoWrks Millenia,Private Studio
+BLR/MN/PS/00/001,00,,4,No,,Yes,CoWrks Millenia,Private Studio
+BLR/MN/PS/00/002,00,,4,No,,Yes,CoWrks Millenia,Private Studio
+BLR/MN/PS/00/003,00,,4,No,,Yes,CoWrks Millenia,Private Studio
+BLR/MN/PS/00/004,00,,6,No,,Yes,CoWrks Millenia,Private Studio
+BLR/MN/PS/00/006,00,,9,No,,Yes,CoWrks Millenia,Private Studio
+BLR/MN/PS/00/007,00,,13,No,,Yes,CoWrks Millenia,Private Studio
+BLR/MN/PS/00/008,00,,5,No,,Yes,CoWrks Millenia,Private Studio
+BLR/MN/PS/00/009,00,,35,Yes,,No,CoWrks Millenia,Private Studio
+BLR/MN/FD/00/015,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/013,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/002,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/004,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/010,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/008,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/009,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/011,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/001,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/005,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/007,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/003,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/012,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/006,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/016,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/014,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/FD/00/006,00,,1,No,,No,CoWrks Millenia,Flexible Desk
+BLR/MN/CP/UB/010,N/A,,1,,,,CoWrks Millenia,Car Parking
+BLR/MN/CP/SA/015,N/A,,1,,,,CoWrks Millenia,Car Parking
+BLR/MN/CP/LB/097,N/A,,1,,,,CoWrks Millenia,Car Parking
+BLR/MN/CP/LB/126,N/A,,1,,,,CoWrks Millenia,Car Parking
+BLR/MN/CP/LB/125,N/A,,1,,,,CoWrks Millenia,Car Parking
+BLR/MN/CP/LB/066,N/A,,1,,,,CoWrks Millenia,Car Parking
+BLR/MN/CP/SA/016,N/A,,1,,,,CoWrks Millenia,Car Parking
+BLR/MN/CP/LB/058,N/A,,1,,,,CoWrks Millenia,Car Parking
+BLR/MN/CP/ML/009,N/A,,1,,,,CoWrks Millenia,Car Parking
+BLR/MN/CP/MU/009,N/A,,1,,,,CoWrks Millenia,Car Parking
+BLR/MN/CP/ML/008,N/A,,1,,,,CoWrks Millenia,Car Parking
+BLR/MN/CP/MU/008,N/A,,1,,,,CoWrks Millenia,Car Parking
+BLR/MN/CP/MU/030,N/A,,1,,,,CoWrks Millenia,Car Parking
+BLR/MN/CP/MU/026,N/A,,1,,,,CoWrks Millenia,Car Parking
+BLR/MN/VO/00/003,N/A,,1,,,,CoWrks Millenia,Virtual Office
+BLR/MN/VO/00/002,N/A,,1,,,,CoWrks Millenia,Virtual Office
+BLR/MN/VO/00/001,N/A,,1,,,,CoWrks Millenia,Virtual Office
+BLR/MN/VO/00/004,N/A,,1,,,,CoWrks Millenia,Virtual Office
+BLR/MN/VO/00/005,N/A,,1,,,,CoWrks Millenia,Virtual Office
+BLR/IN/PS/05/033,05,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/034,05,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/035,05,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/036,05,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/037,05,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/038,05,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/061,05,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/062,05,,12,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/057,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/048,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/059,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/060,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/050,05,,9,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/049,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/051,05,,10,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/058,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/052,05,,10,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/047,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/053,05,,9,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/046,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/040,05,,9,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/039,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/041,05,,10,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/042,05,,10,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/043,05,,9,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/044,05,,31,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/045,05,,11,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/054,05,,12,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/055,05,,12,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/056,05,,11,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/001,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/002,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/003,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/004,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/005,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/006,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/007,05,,2,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/008,05,,6,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/009,05,,6,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/010,05,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/011,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/012,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/013,05,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/014,05,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/015,05,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/016,05,,3,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/017,05,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/018,05,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/019,05,,3,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/020,05,,6,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/021,05,,6,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/022,05,,7,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/023,05,,10,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/024,05,,9,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/025,05,,10,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/026,05,,9,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/027,05,,8,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/028,05,,10,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/029,05,,12,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/030,05,,9,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/031,05,,10,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/05/032,05,,25,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/00/001,00,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/00/002,00,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/00/003,00,,8,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/00/004,00,,4,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/00/005,00,,2,No,No,Yes,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/00/006,00,,15,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/00/007,00,,6,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/00/008,00,,12,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/00/009,00,,12,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/00/010,00,,11,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/00/011,00,,6,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/PS/00/012,00,,12,Yes,No,No,CoWrks New Indiranagar,Private Studio
+BLR/IN/DD/5B/001,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/002,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/003,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/004,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/005,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/006,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/007,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/008,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/009,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0020,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0021,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0022,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0023,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0024,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0025,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0026,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0027,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0028,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0029,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0030,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0031,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0032,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0033,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0034,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0035,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0036,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0037,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0038,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0039,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0040,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0041,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/5B/0042,5B,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/FD/05/0021,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0022,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0023,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0024,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0025,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0026,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0027,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0028,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0029,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0031,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/DD/00/013,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/014,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/015,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/016,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/017,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/018,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/019,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/020,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/FD/05/0032,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0033,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0034,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0030,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0001,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0002,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0003,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0004,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/DD/00/001,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/002,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/003,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/004,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/005,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/006,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/007,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/008,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/009,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/010,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/011,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/DD/00/012,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/FD/05/0005,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0006,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0007,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0008,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0009,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0010,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0011,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0012,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0013,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0014,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0015,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0016,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0017,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0018,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0019,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/IN/FD/05/0020,05,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Desk
+BLR/INF/FC/00/002,00,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Chair
+BLR/INF/FC/00/001,00,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Chair
+MUM/BC/PS/03/039a,03,,38,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/039b,03,,4,No,,No,CoWrks Worli,Private Studio
+CHN/OP/PS/00/011b,00,,4,No,No,Yes,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/011a,00,,4,No,No,Yes,RMZ One Paramount,Private Studio
+CHN/MN/PS/60,,,20,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/01,,,14,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/02,,,14,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/03,,,12,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/04,,,12,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/05,,,12,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/06,,,12,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/07,,,30,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/08,,,24,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/09,,,12,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/10,,,12,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/11,,,12,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/12,,,12,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/13,,,12,Yes,,No,CoWrks OMR,Private Studio
+BLR/EW/FC/00/001,00,,1,No,No,Yes,CoWrks New Indiranagar,Flexible Chair
+Community Lounge,N/A,,1,,,,CoWrks New Indiranagar,Lounge
+Community Lounge - 4,N/A,N/A,1,,,,CoWrks New Indiranagar,Lounge
+Community Lounge - 3,N/A,N/A,1,,,,CoWrks New Indiranagar,Lounge
+Community Lounge - 2,N/A,N/A,1,,,,CoWrks New Indiranagar,Lounge
+Community Lounge - 5,N/A,N/A,1,,,,CoWrks New Indiranagar,Lounge
+Community Lounge - 1,N/A,N/A,1,,,,CoWrks New Indiranagar,Lounge
+Virtual Office - 01,N/A,N/A,1,,,,CoWrks New Indiranagar,Lounge+
+Virtual Office - 01,N/A,N/A,1,,,,CoWrks New Indiranagar,Lounge+
+Day Pass,N/A,N/A,1,,,,CoWrks New Indiranagar,Day Pass
+Day Pass,N/A,N/A,1,,,,CoWrks New Indiranagar,Day Pass
+BLR/INF/5F-CP/119,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/105,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/095,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/120,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/114,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/122,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/106,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/111,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/094,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/121,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/112,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/108,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/110,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/109,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/107,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/113,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/118,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/093,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/092,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-CP/091,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-58,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFBP/D-05,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFBP/D-06,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFBP/D-07,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFBP/D-08,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFBP/E-17,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFBP/E-17(17A),N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFBP/E-17(17B),N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFBP/E-17(17C),N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFBP/E-17(17D),N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFSP/T10-31,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFSP/T10-32,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFSP/T10-33,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFSP/T10-34,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFSP/T10-35,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFSP/T10-36,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFSP/T10-37,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFSP/T10-38,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFSP/T10-39,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-59,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-60,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-62,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-63,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-64,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-65,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-66,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-82,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-83,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-90,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-91,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-92,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-93,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-94,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-95,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-96,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-97,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-98,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/5F-BP/B-99,N/A,N/A,1,,,,CoWrks New Indiranagar,Car Parking
+BLR/INF/GFBP/D-09.2,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/GFBP/D-09.3,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/GFBP/D-09.4,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/GFBP/D-09.5,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/GFBP/D-09.6,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/GFBP/D-10.1,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/GFBP/D-10.2,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/GFBP/D-10.3,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/GFBP/D-10.4,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/GFBP/D-10.5,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/GFBP/D-10.6,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/GFBP/D-09.1,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-22.1,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-22.2,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-22.3,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-22.4,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-23.1,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-23.2,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-23.3,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-23.4,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-24.1,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-24.2,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-24.3,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-24.4,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-25.1,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-25.2,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-25.3,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+BLR/INF/5F-BP/B-25.4,N/A,N/A,1,,,,CoWrks New Indiranagar,Bike Parking
+Telephony,N/A,N/A,1,,,,CoWrks New Indiranagar,Telephony
+Telephony,N/A,N/A,1,,,,CoWrks New Indiranagar,Telephony
+Mail and Package Handling,N/A,N/A,1,,,,CoWrks New Indiranagar,Mail and Package Handling
+Virtual Receptionist,N/A,N/A,1,,,,CoWrks New Indiranagar,Virtual Receptionist
+Virtual Receptionist,N/A,N/A,1,,,,CoWrks New Indiranagar,Virtual Receptionist
+External Signage,N/A,,1,,,,CoWrks New Indiranagar,External Signage
+External Signage,N/A,,1,,,,CoWrks New Indiranagar,External Signage
+BLR/IN/00/ES GF IN,N/A,N/A,1,,,,CoWrks New Indiranagar,Event Space
+BLR/IN/00/ES GF OUT,N/A,N/A,1,,,,CoWrks New Indiranagar,Event Space
+BLR/IN/00/ES 5F,N/A,N/A,1,,,,CoWrks New Indiranagar,Event Space
+BLR/IN/VO/00/006,N/A,,1,,,,CoWrks New Indiranagar,Virtual Office
+BLR/IN/VO/00/002,N/A,,1,,,,CoWrks New Indiranagar,Virtual Office
+BLR/IN/VO/00/001,N/A,,1,,,,CoWrks New Indiranagar,Virtual Office
+BLR/IN/VO/00/007,N/A,,1,,,,CoWrks New Indiranagar,Virtual Office
+BLR/IN/VO/00/004,N/A,,1,,,,CoWrks New Indiranagar,Virtual Office
+BLR/IN/VO/00/008,N/A,,1,,,,CoWrks New Indiranagar,Virtual Office
+BLR/IN/VO/00/003,N/A,,1,,,,CoWrks New Indiranagar,Virtual Office
+BLR/IN/VO/00/010,N/A,,1,,,,CoWrks New Indiranagar,Virtual Office
+BLR/IN/VO/00/005,N/A,,1,,,,CoWrks New Indiranagar,Virtual Office
+BLR/IN/VO/00/009,N/A,,1,,,,CoWrks New Indiranagar,Virtual Office
+CHN/MN/PS/14,,,12,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/15,,,12,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/16,,,33,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/17,,,8,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/18,,,6,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/19,,,7,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/20,,,6,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/21,,,7,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/22,,,6,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/24,,,10,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/34,,,4,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/26,,,10,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/27,,,3,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/28,,,10,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/29,,,10,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/30,,,4,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/31,,,9,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/32,,,4,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/33,,,9,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/25,,,4,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/35,,,9,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/36,,,4,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/37,,,10,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/02/023,02,,4,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/38,,,4,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/39,,,6,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/40,,,8,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/41,,,6,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/42,,,7,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/43,,,10,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/44,,,4,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/45,,,10,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/46,,,4,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/47,,,8,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/48,,,4,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/49,,,10,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/50,,,4,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/51,,,21,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/52,,,12,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/53,,,10,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/54,,,12,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/55,,,12,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/56,,,11,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/57,,,12,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/PS/58,,,3,No,,Yes,CoWrks OMR,Private Studio
+CHN/MN/PS/59,,,18,Yes,,No,CoWrks OMR,Private Studio
+CHN/MN/DD/01,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/02,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/03,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/04,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/05,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/06,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/07,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/08,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/09,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/10,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/11,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/12,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/13,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/14,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/15,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/16,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/17,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/18,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/19,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/20,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/21,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/22,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/23,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/24,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/25,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/26,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/27,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/28,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/29,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/30,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/31,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/32,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/33,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/34,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/35,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/36,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/37,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/38,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/39,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/40,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/41,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/42,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/43,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/44,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+CHN/MN/DD/45,,,1,No,,Yes,CoWrks OMR,Dedicated Desk
+NCR/PT/PSDD/00/063,00,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/PSDD/00/067,00,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/PSDD/00/068,00,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/PSDD/00/072,00,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/PSDD/00/071,00,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/PSDD/00/070,00,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/PSDD/00/069,00,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/PSDD/00/065,00,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/PSDD/00/066,00,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+NCR/PT/PSDD/00/064,00,,1,No,,Yes,CoWrks Golf Course Road,Dedicated Desk
+BLR/IN/PSDD/00/027,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/PSDD/00/021,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/PSDD/00/024,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/PSDD/00/023,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+CHN/MN/CP/4BFF/034,N/A,N/A,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/4BFF/018,N/A,N/A,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/011,N/A,N/A,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/4BFF/035,N/A,N/A,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/4BFF/019,N/A,N/A,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/4BFF/037,N/A,N/A,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/4BFF/017,N/A,N/A,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/001,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/002,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/003,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/004,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/005,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/006,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/007,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/008,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/009,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/010,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/011,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/012,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/013,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/014,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/015,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/016,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/023,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/024,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/025,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/026,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/027,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/028,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/029,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/030,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/031,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/032,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/033,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/034,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/035,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/036,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/037,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/038,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/039,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/040,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/041,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/042,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/043,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/044,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/045,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/CP/FF/046,N/A,,1,,,,CoWrks OMR,Car Parking
+CHN/MN/BP/001,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/017.1,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/018.1,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/019.1,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/020.1,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/021.1,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/022.1,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/017.2,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/018.2,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/019.2,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/020.2,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/021.2,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/022.2,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/017.3,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/018.3,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/019.3,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/020.3,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/021.3,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/022.3,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/017.4,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/018.4,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/019.4,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/020.4,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/021.4,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+CHN/MN/BP/FF/022.4,N/A,N/A,1,,,,CoWrks OMR,Bike Parking
+Telephony,N/A,N/A,1,,,,CoWrks OMR,Telephony
+Mail and Package Handling,N/A,N/A,1,,,,CoWrks OMR,Mail and Package Handling
+CHN/MN/VO/00/001,N/A,,1,,,,CoWrks OMR,Virtual Office
+MUM/PO/PS/03/001,03,,12,1,,0,CoWrks Powai,Private Studio
+MUM/PO/PS/03/002,03,,35,1,,0,CoWrks Powai,Private Studio
+MUM/PO/PS/03/003,03,,23,1,,0,CoWrks Powai,Private Studio
+MUM/PO/PS/03/004,03,,27,1,,0,CoWrks Powai,Private Studio
+MUM/PO/PS/03/005,03,,55,1,,0,CoWrks Powai,Private Studio
+MUM/PO/PS/03/006,03,,22,1,,0,CoWrks Powai,Private Studio
+MUM/PO/PS/03/007,03,,37,1,,0,CoWrks Powai,Private Studio
+MUM/PO/PS/03/008,03,,42,1,,0,CoWrks Powai,Private Studio
+MUM/PO/PS/03/009,03,,32,1,,0,CoWrks Powai,Private Studio
+MUM/PO/PS/03/010,03,,6,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/011,03,,6,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/012,03,,4,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/013,03,,8,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/014,03,,6,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/015,03,,6,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/016,03,,8,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/017,03,,6,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/018,03,,4,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/019,03,,4,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/020,03,,1,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/021,03,,1,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/022,03,,1,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/023,03,,1,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/024,03,,6,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/025,03,,6,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/026,03,,5,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/027,03,,5,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/028,03,,6,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/029,03,,6,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/030,03,,1,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/031,03,,1,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/032,03,,1,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/033,03,,1,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/034,03,,8,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/035,03,,8,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/036,03,,7,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/037,03,,2,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/038,03,,4,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/039,03,,4,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/040,03,,7,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/041,03,,11,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/042,03,,8,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/043,03,,5,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/044,03,,6,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/045,03,,2,0,,1,CoWrks Powai,Private Studio
+MUM/PO/PS/03/046,03,,8,0,,1,CoWrks Powai,Private Studio
+MUM/PO/DD/03/001,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/002,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/003,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/004,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/005,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/006,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/007,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/008,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/009,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/010,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/011,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/012,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/013,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/014,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/015,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/016,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/017,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/018,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/019,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/DD/03/020,03,,1,0,,1,CoWrks Powai,Dedicated Desk
+MUM/PO/CL/03/001,03,,1,0,,1,CoWrks Powai,Lounge
+MUM/PO/CL/03/002,03,,1,0,,1,CoWrks Powai,Lounge
+MUM/PO/CL/03/003,03,,1,0,,1,CoWrks Powai,Lounge
+MUM/PO/CL/03/004,03,,1,0,,1,CoWrks Powai,Lounge
+MUM/PO/CL/03/005,03,,1,0,,1,CoWrks Powai,Lounge
+MUM/PO/CL/03/006,03,,1,0,,1,CoWrks Powai,Lounge
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/SP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/SP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/SP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/SP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/SP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/SP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/SP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/SP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/SP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/SP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/SP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/SP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/SP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/SP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+MUM/PO/CP/BP/001,N/A,,1,,,,CoWrks Powai,Car Parking
+HYD/SV/PS/02/001,02,,27,0,,1,Cowrks Skyview,Private Studio
+HYD/SV/PS/02/002,02,,48,1,,0,Cowrks Skyview,Private Studio
+HYD/SV/PS/02/003,02,,59,0,,1,Cowrks Skyview,Private Studio
+HYD/SV/PS/02/004,02,,41,0,,1,Cowrks Skyview,Private Studio
+HYD/SV/PS/02/005,02,,52,1,,0,Cowrks Skyview,Private Studio
+HYD/SV/PS/02/006,02,,35,1,,0,Cowrks Skyview,Private Studio
+HYD/SV/PS/02/007,02,,80,1,,0,Cowrks Skyview,Private Studio
+HYD/SV/PS/02/008,02,,76,1,,0,Cowrks Skyview,Private Studio
+HYD/SV/PS/02/009,02,,44,0,,1,Cowrks Skyview,Private Studio
+HYD/SV/PS/02/010,02,,86,0,,1,Cowrks Skyview,Private Studio
+HYD/SV/PS/02/011,02,,78,1,,0,Cowrks Skyview,Private Studio
+MUM/BC/GM/02/003,N/A,,1,,,,CoWrks Worli,
+MUM/BC/GM/02/005,N/A,,1,,,,CoWrks Worli,
+MUM/BC/GM/02/004,N/A,,1,,,,CoWrks Worli,
+MUM/BC/PS/03/030,03,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/001,02,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/002,02,,8,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/003,02,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/004,02,,9,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/005,02,,34,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/006,02,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/007,02,,9,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/008,02,,9,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/009,02,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/010,02,,27,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/011,02,,7,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/012,02,,8,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/013,02,,7,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/014,02,,8,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/015,02,,8,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/016,02,,7,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/017,02,,8,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/018,02,,7,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/019,02,,8,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/020,02,,8,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/021,02,,16,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/022,02,,8,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/023,02,,8,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/024,02,,8,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/025,02,,8,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/026,02,,8,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/027,02,,4,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/028,02,,5,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/02/029,02,,6,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/031,03,,8,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/032,03,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/033,03,,9,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/034,03,,9,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/035,03,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/036,03,,8,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/037,03,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/038,03,,9,Yes,,No,CoWrks Worli,Private Studio
+BLR/IN/PSDD/00/028,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+MUM/BC/PS/03/040,03,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/041,03,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/042,03,,9,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/043,03,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/044,03,,9,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/045,03,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/046,03,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/047,03,,9,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/048,03,,30,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/049,03,,9,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/050,03,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/051,03,,9,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/052,03,,9,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/053,03,,10,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/054,03,,14,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/055,03,,8,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/056,03,,8,Yes,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/057,03,,6,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/058,03,,6,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/059,03,,6,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/060,03,,6,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/061,03,,3,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/062,03,,7,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/063,03,,6,No,,No,CoWrks Worli,Private Studio
+MUM/BC/PS/03/064,03,,4,No,,No,CoWrks Worli,Private Studio
+BLR/IN/PSDD/00/022,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+MUM/BC/PS/01/001,01,,57,1,,0,CoWrks Worli,Private Studio
+MUM/BC/PS/01/002,01,,50,1,,0,CoWrks Worli,Private Studio
+MUM/BC/PS/01/003,01,,69,1,,0,CoWrks Worli,Private Studio
+MUM/BC/PS/01/004,01,,44,1,,0,CoWrks Worli,Private Studio
+MUM/BC/PS/01/005,01,,41,1,,0,CoWrks Worli,Private Studio
+MUM/BC/PS/01/006,01,,48,1,,0,CoWrks Worli,Private Studio
+MUM/BC/PS/01/007,01,,66,1,,0,CoWrks Worli,Private Studio
+MUM/BC/DD/03/007,03,,1,No,,Yes,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/008,03,,1,No,,Yes,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/009,03,,1,No,,Yes,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/010,03,,1,No,,Yes,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/011,03,,1,No,,Yes,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/012,03,,1,No,,Yes,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/013,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/014,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/015,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/016,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/017,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/018,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/019,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/020,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/021,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/022,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/023,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/024,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/025,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/026,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/027,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/028,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/029,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/030,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/031,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/032,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/033,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/034,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/035,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/036,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/037,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/038,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/039,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/040,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/041,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/042,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/043,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/044,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/045,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/046,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/047,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/048,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/02/003,02,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/02/004,02,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/02/005,02,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/02/006,02,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/02/002,02,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/049,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/03/050,03,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/DD/02/001,02,,1,Yes,,No,CoWrks Worli,Dedicated Desk
+MUM/BC/FD/02/001,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/002,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/003,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/004,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/005,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/006,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/007,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/008,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/009,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/010,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/011,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/012,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/013,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/014,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/015,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/016,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/017,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/018,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/019,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/020,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/021,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/022,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/023,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/024,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/025,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/026,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/027,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/028,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/029,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/030,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/031,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/032,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/033,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/034,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/035,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/036,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/037,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/038,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/039,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/040,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/041,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/042,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/043,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/044,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/045,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/046,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/047,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+MUM/BC/FD/02/048,02,,1,Yes,,No,CoWrks Worli,Flexible Desk
+Car Park -Worli,N/A,N/A,,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/001,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/002,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/003,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/004,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/005,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/006,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/007,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/008,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/009,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/010,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/011,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/012,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/013,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/014,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/015,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/016,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/017,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/018,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/019,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/020,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/021,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/022,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/023,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/024,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/025,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/026,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/027,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/028,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/029,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/030,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/031,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/032,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/033,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/034,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/035,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/036,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/037,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/038,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/039,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/040,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/041,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/042,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/043,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/044,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/045,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/046,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/047,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/048,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/049,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/050,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/051,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/052,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/053,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/054,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/055,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/056,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/057,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/058,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/059,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/060,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/061,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/062,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/063,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/064,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/065,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/066,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/067,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/068,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/069,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/070,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/071,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/072,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/073,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/074,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/075,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/076,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/077,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/078,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/079,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/080,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/081,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/082,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/083,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/084,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/085,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/086,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/CP/087,N/A,N/A,1,,,,CoWrks Worli,Car Parking
+MUM/BC/BP/001,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/002,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/003,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/004,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/005,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/006,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/007,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/008,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/009,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/010,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/011,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/012,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/013,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/014,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/015,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/016,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/017,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/018,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/019,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/020,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/021,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/022,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/023,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/024,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/025,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/026,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/027,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/028,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/029,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/030,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/031,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/032,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/033,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/034,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/035,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/036,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/037,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/038,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/039,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/040,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/041,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/042,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/043,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/044,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/045,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/046,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/047,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/048,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/049,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/050,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/051,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/052,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/053,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/054,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/055,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/056,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/057,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/058,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/059,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+MUM/BC/BP/060,N/A,N/A,1,,,,CoWrks Worli,Bike Parking
+Telephony,N/A,N/A,1,,,,CoWrks Worli,Telephony
+Mail and Package Handling,N/A,N/A,1,,,,CoWrks Worli,Mail and Package Handling
+Virtual Receptionist,N/A,N/A,1,,,,CoWrks Worli,Virtual Receptionist
+MUM/BC/VO/02/003,N/A,,1,,,,CoWrks Worli,Virtual Office
+MUM/BC/VO/02/005,N/A,,1,,,,CoWrks Worli,Virtual Office
+MUM/BC/VO/02/001,N/A,,1,,,,CoWrks Worli,Virtual Office
+MUM/BC/VO/02/004,N/A,,1,,,,CoWrks Worli,Virtual Office
+MUM/BC/VO/02/006,N/A,,1,,,,CoWrks Worli,Virtual Office
+MUM/BC/VO/02/008,N/A,,1,,,,CoWrks Worli,Virtual Office
+MUM/BC/VO/02/007,N/A,,1,,,,CoWrks Worli,Virtual Office
+MUM/BC/VO/02/010,N/A,,1,,,,CoWrks Worli,Virtual Office
+MUM/BC/VO/02/002,N/A,,1,,,,CoWrks Worli,Virtual Office
+MUM/BC/VO/02/009,N/A,,1,,,,CoWrks Worli,Virtual Office
+MUM/BC/GM/02/009,N/A,,1,,,,CoWrks Worli,Gym Membership
+MUM/BC/GM/02/006,N/A,,1,,,,CoWrks Worli,Gym Membership
+MUM/BC/GM/02/010,N/A,,1,,,,CoWrks Worli,Gym Membership
+MUM/BC/GM/02/007,N/A,,1,,,,CoWrks Worli,Gym Membership
+MUM/BC/GM/02/008,N/A,,1,,,,CoWrks Worli,Gym Membership
+MUM/BC/GM/02/002,N/A,,1,,,,CoWrks Worli,Gym Membership
+MUM/BC/GM/02/001,N/A,,1,,,,CoWrks Worli,Gym Membership
+BLR/YE/PS/12/001,12,,16,1,,0,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/12/002,12,,27,1,,0,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/12/003,12,,15,1,,0,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/12/004,12,,98,1,,0,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/01/001,01,,15,0,,1,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/01/002,01,,12,0,,1,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/01/003,01,,6,0,,1,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/01/004,01,,13,0,,1,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/01/005,01,,19,1,,0,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/01/006,01,,12,1,,0,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/01/007,01,,15,1,,0,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/01/008,01,,5,1,,0,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/02/001,02,,15,0,,1,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/02/002,02,,12,0,,1,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/02/003,02,,6,0,,1,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/02/004,02,,13,0,,1,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/02/005,02,,19,1,,0,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/02/006,02,,12,1,,0,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/02/007,02,,15,1,,0,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/02/008,02,,5,1,,0,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/02/009,02,,6,1,,0,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/02/010,02,,4,0,,1,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/02/011,02,,4,0,,1,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/02/012,02,,6,0,,1,CoWrks Yelahanka,Private Studio
+BLR/YE/PS/02/013,02,,23,0,,1,CoWrks Yelahanka,Private Studio
+BLR/YE/DD/01/001,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/002,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/003,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/004,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/005,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/006,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/007,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/008,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/009,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/010,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/011,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/012,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/013,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/014,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/015,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/016,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/017,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/018,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/019,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/DD/01/020,01,,1,,,,CoWrks Yelahanka,Dedicated Desk
+BLR/YE/CL/01/001,01,,1,,,,CoWrks Yelahanka,Lounge
+BLR/YE/CL/01/002,01,,1,,,,CoWrks Yelahanka,Lounge
+BLR/YE/CL/01/003,01,,1,,,,CoWrks Yelahanka,Lounge
+BLR/YE/CL/01/004,01,,1,,,,CoWrks Yelahanka,Lounge
+BLR/YE/CL/01/005,01,,1,,,,CoWrks Yelahanka,Lounge
+BLR/YE/CL/01/006,01,,1,,,,CoWrks Yelahanka,Lounge
+BLR/YE/CL/01/007,01,,1,,,,CoWrks Yelahanka,Lounge
+BLR/YE/CL/02/001,02,,1,,,,CoWrks Yelahanka,Lounge
+BLR/YE/CL/02/002,02,,1,,,,CoWrks Yelahanka,Lounge
+BLR/YE/CL/02/003,02,,1,,,,CoWrks Yelahanka,Lounge
+BLR/YE/CL/02/004,02,,1,,,,CoWrks Yelahanka,Lounge
+BLR/YE/CL/02/005,02,,1,,,,CoWrks Yelahanka,Lounge
+BLR/YE/CL/02/006,02,,1,,,,CoWrks Yelahanka,Lounge
+BLR/YE/CL/02/007,02,,1,,,,CoWrks Yelahanka,Lounge
+NCR/GC/PS/00/001,00,,12,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/00/002,00,,10,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/00/003,00,,12,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/00/004,00,,12,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/00/005,00,,13,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/00/006,00,,7,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/00/007,00,,8,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/00/008,00,,4,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/00/009,00,,7,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/00/010,00,,8,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/00/011,00,,4,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/00/012,00,,9,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/00/013,00,,10,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/00/014,00,,10,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/00/015,00,,10,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/00/016,00,,4,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/01/017,01,,16,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/01/018,01,,8,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/01/019,01,,8,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/01/020,01,,18,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/01/021,01,,12,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/01/022,01,,12,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/01/023,01,,10,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/01/024,01,,12,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/01/025,01,,12,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/01/026,01,,12,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/06/027,06,,12,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/06/028,06,,29,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/06/029,06,,1,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/030,06,,4,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/031,06,,2,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/032,06,,1,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/033,06,,2,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/034,06,,1,Yes,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/035,06,,1,Yes,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/036,06,,1,Yes,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/037,06,,1,Yes,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/038,06,,1,Yes,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/039,06,,1,Yes,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/040,06,,10,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/041,06,,8,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/042,06,,7,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/043,06,,9,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/044,06,,7,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/045,06,,9,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/046,06,,4,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/047,06,,2,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/048,06,,2,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/PS/06/049,06,,10,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/06/050,06,,10,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/06/051,06,,9,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/06/052,06,,9,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/06/053,06,,38,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/06/054,06,,25,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/06/055,06,,6,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/06/056,06,,8,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/06/057,06,,3,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/06/058,06,,16,Yes,,No,Gurgaon Central,Private Studio
+NCR/GC/PS/06/059,06,,6,1,,0,Gurgaon Central,Private Studio
+NCR/GC/PS/06/060,06,,12,1,,0,Gurgaon Central,Private Studio
+NCR/GC/PS/06/061,06,,15,1,,0,Gurgaon Central,Private Studio
+NCR/GC/TR/06/001,06,,1,No,,Yes,Gurgaon Central,Private Studio
+NCR/GC/DD/00/001,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/002,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/003,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/004,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/014,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/015,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/007,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/008,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/009,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/010,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/011,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/012,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/013,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/005,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/006,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/016,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/017,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/018,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/019,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/020,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/021,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/00/022,00,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/023,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/024,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/025,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/026,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/027,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/028,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/029,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/030,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/031,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/032,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/033,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/034,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/035,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/036,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/037,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/038,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/039,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/040,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/041,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/042,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/043,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/044,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/045,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/046,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/047,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/048,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/049,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/050,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/051,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/052,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/053,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/01/054,01,,1,No,,Yes,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/001,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/002,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/003,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/004,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/005,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/006,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/007,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/008,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/009,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/010,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/011,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/012,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/013,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/014,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/015,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/016,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/017,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/018,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/019,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/020,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/021,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/022,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/023,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/024,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/DD/06/025,06,,1,0,,1,Gurgaon Central,Dedicated Desk
+NCR/GC/FD/00/001,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/002,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/003,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/004,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/005,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/006,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/007,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/008,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/009,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/010,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/011,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/012,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/013,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/014,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/015,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/016,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/017,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/018,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/019,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/020,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/021,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/022,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/023,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/024,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/025,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/026,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/027,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/028,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/FD/00/029,00,,1,No,,Yes,Gurgaon Central,Flexible Desk
+NCR/GC/CP/B1/001,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/002,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/003,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/004,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/005,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/006,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/007,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/008,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/009,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/010,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/011,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/012,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/013,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/014,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/015,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/016,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/017,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/018,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/019,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/020,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/021,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/022,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/023,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/024,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/025,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/026,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/027,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/028,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/029,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/030,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/031,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/032,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/033,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/034,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/035,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/036,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/037,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/038,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/039,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/040,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/041,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/042,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/043,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/044,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/045,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/046,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/047,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/048,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/049,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/050,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/051,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/052,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/053,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/064,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/065,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/066,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/067,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/068,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/069,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/070,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/071,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/072,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/073,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/074,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/CP/B1/075,N/A,,1,,,,Gurgaon Central,Car Parking
+NCR/GC/BP/B1/054.1,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/054.2,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/054.3,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/054.4,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/055.1,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/055.2,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/055.3,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/055.4,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/056.1,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/057.1,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/058.1,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/059.1,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/060.1,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/061.1,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/062.1,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/063.1,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/056.2,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/057.2,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/058.2,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/059.2,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/060.2,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/061.2,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/062.2,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/063.2,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/056.3,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/057.3,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/058.3,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/059.3,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/060.3,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/061.3,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/062.3,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/063.3,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/056.4,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/057.4,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/058.4,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/059.4,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/060.4,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/061.4,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/062.4,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+NCR/GC/BP/B1/063.4,N/A,N/A,1,,,,Gurgaon Central,Bike Parking
+Telephony,N/A,N/A,1,,,,Gurgaon Central,Telephony
+Telephony,N/A,N/A,1,,,,Gurgaon Central,Telephony
+NCR/GC/VO/00/007,N/A,,1,,,,Gurgaon Central,Virtual Office
+NCR/GC/VO/00/010,N/A,,1,,,,Gurgaon Central,Virtual Office
+NCR/GC/VO/00/009,N/A,,1,,,,Gurgaon Central,Virtual Office
+NCR/GC/VO/00/008,N/A,,1,,,,Gurgaon Central,Virtual Office
+NCR/GC/VO/00/004,N/A,,1,,,,Gurgaon Central,Virtual Office
+NCR/GC/VO/00/001,N/A,,1,,,,Gurgaon Central,Virtual Office
+NCR/GC/VO/00/002,N/A,,1,,,,Gurgaon Central,Virtual Office
+NCR/GC/VO/00/003,N/A,,1,,,,Gurgaon Central,Virtual Office
+NCR/GC/VO/00/006,N/A,,1,,,,Gurgaon Central,Virtual Office
+NCR/GC/VO/00/005,N/A,,1,,,,Gurgaon Central,Virtual Office
+NCR/GC/RU/00/001,N/A,,1,No,,,Gurgaon Central,IT Rack Unit
+NCR/GC/RU/00/004,N/A,,1,No,,,Gurgaon Central,IT Rack Unit
+NCR/GC/RU/00/003,N/A,,1,No,,,Gurgaon Central,IT Rack Unit
+NCR/GC/RU/00/002,N/A,,1,No,,,Gurgaon Central,IT Rack Unit
+BLR/RR/PS/01/001,01,,1,1,,0,Residency Road,Private Studio
+BLR/RR/PS/01/002,01,,6,1,,0,Residency Road,Private Studio
+BLR/RR/PS/01/003,01,,8,1,,0,Residency Road,Private Studio
+BLR/RR/PS/01/004,01,,7,1,,0,Residency Road,Private Studio
+BLR/RR/PS/01/005,01,,8,1,,0,Residency Road,Private Studio
+BLR/RR/PS/01/006,01,,7,1,,0,Residency Road,Private Studio
+BLR/RR/PS/01/007,01,,8,1,,0,Residency Road,Private Studio
+BLR/RR/PS/01/008,01,,8,0,,1,Residency Road,Private Studio
+BLR/RR/PS/01/009,01,,8,0,,1,Residency Road,Private Studio
+BLR/RR/PS/01/010,01,,7,0,,1,Residency Road,Private Studio
+BLR/RR/PS/01/011,01,,7,0,,1,Residency Road,Private Studio
+BLR/RR/PS/01/012,01,,17,0,,1,Residency Road,Private Studio
+BLR/RR/PS/01/013,01,,13,0,,1,Residency Road,Private Studio
+BLR/RR/PS/01/014,01,,21,1,,0,Residency Road,Private Studio
+BLR/RR/PS/01/015,01,,4,0,,1,Residency Road,Private Studio
+BLR/RR/PS/01/016,01,,1,0,,1,Residency Road,Private Studio
+BLR/RR/PS/01/017,01,,25,1,,0,Residency Road,Private Studio
+BLR/RR/PS/01/018,01,,4,0,,1,Residency Road,Private Studio
+BLR/RR/PS/01/019,01,,10,0,,1,Residency Road,Private Studio
+BLR/RR/PS/01/020,01,,19,1,,0,Residency Road,Private Studio
+BLR/RR/PS/01/021,01,,2,0,,1,Residency Road,Private Studio
+BLR/RR/PS/01/022,01,,2,0,,1,Residency Road,Private Studio
+BLR/RR/PS/01/023,01,,1,0,,1,Residency Road,Private Studio
+BLR/RR/PS/02/024,02,,2,1,,0,Residency Road,Private Studio
+BLR/RR/PS/02/025,02,,6,1,,0,Residency Road,Private Studio
+BLR/RR/PS/02/026,02,,8,1,,0,Residency Road,Private Studio
+BLR/RR/PS/02/027,02,,7,1,,0,Residency Road,Private Studio
+BLR/RR/PS/02/028,02,,8,1,,0,Residency Road,Private Studio
+BLR/RR/PS/02/029,02,,7,1,,0,Residency Road,Private Studio
+BLR/RR/PS/02/030,02,,8,1,,0,Residency Road,Private Studio
+BLR/RR/PS/02/031,02,,8,0,,1,Residency Road,Private Studio
+BLR/RR/PS/02/032,02,,8,0,,1,Residency Road,Private Studio
+BLR/RR/PS/02/033,02,,7,0,,1,Residency Road,Private Studio
+BLR/RR/PS/02/034,02,,7,0,,1,Residency Road,Private Studio
+BLR/RR/PS/02/035,02,,17,0,,1,Residency Road,Private Studio
+BLR/RR/PS/02/036,02,,1,0,,1,Residency Road,Private Studio
+BLR/RR/PS/02/037,02,,1,0,,1,Residency Road,Private Studio
+BLR/RR/PS/02/038,02,,4,0,,1,Residency Road,Private Studio
+BLR/RR/PS/02/039,02,,1,1,,0,Residency Road,Private Studio
+BLR/RR/PS/02/040,02,,9,1,,0,Residency Road,Private Studio
+BLR/RR/PS/02/041,02,,8,0,,1,Residency Road,Private Studio
+BLR/RR/PS/02/042,02,,29,1,,0,Residency Road,Private Studio
+BLR/RR/PS/02/043,02,,4,0,,1,Residency Road,Private Studio
+BLR/RR/PS/02/044,02,,10,0,,1,Residency Road,Private Studio
+BLR/RR/PS/02/045,02,,19,1,,0,Residency Road,Private Studio
+BLR/RR/PS/02/046,02,,2,0,,1,Residency Road,Private Studio
+BLR/RR/PS/02/047,02,,2,0,,1,Residency Road,Private Studio
+BLR/RR/PS/02/048,02,,1,1,,0,Residency Road,Private Studio
+BLR/RR/PS/03/049,03,,8,1,,0,Residency Road,Private Studio
+BLR/RR/PS/03/050,03,,7,1,,0,Residency Road,Private Studio
+BLR/RR/PS/03/051,03,,8,1,,0,Residency Road,Private Studio
+BLR/RR/PS/03/052,03,,7,1,,0,Residency Road,Private Studio
+BLR/RR/PS/03/053,03,,4,1,,0,Residency Road,Private Studio
+BLR/RR/PS/03/054,03,,7,0,,1,Residency Road,Private Studio
+BLR/RR/PS/03/055,03,,7,0,,1,Residency Road,Private Studio
+BLR/RR/PS/03/056,03,,18,0,,1,Residency Road,Private Studio
+BLR/RR/PS/03/057,03,,2,0,,1,Residency Road,Private Studio
+BLR/RR/PS/03/058,03,,21,1,,0,Residency Road,Private Studio
+BLR/RR/PS/03/059,03,,4,0,,1,Residency Road,Private Studio
+BLR/RR/PS/03/060,03,,1,0,,1,Residency Road,Private Studio
+BLR/RR/PS/03/061,03,,11,1,,0,Residency Road,Private Studio
+BLR/RR/PS/03/062,03,,33,1,,0,Residency Road,Private Studio
+BLR/RR/PS/03/063,03,,10,0,,1,Residency Road,Private Studio
+BLR/RR/PS/03/064,03,,19,1,,0,Residency Road,Private Studio
+BLR/RR/PS/03/065,03,,2,0,,1,Residency Road,Private Studio
+BLR/RR/PS/03/066,03,,2,0,,1,Residency Road,Private Studio
+BLR/RR/PS/06/001,06,,100,Yes,,No,Residency Road,Private Studio
+BLR/RR/PS/04/001,04,,109,Yes,,No,Residency Road,Private Studio
+BLR/RR/DD/01/001,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/002,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/003,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/004,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/005,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/006,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/007,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/008,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/009,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/010,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/011,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/012,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/013,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/014,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/015,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/016,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/017,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/018,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/01/019,01,,1,0,,1,Residency Road,Dedicated Desk
+BLR/RR/DD/02/039,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/023,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/038,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/027,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/020,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/021,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/031,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/029,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/030,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/035,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/032,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/025,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/033,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/034,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/037,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/022,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/024,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/036,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/028,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/DD/02/026,02,,1,No,,Yes,Residency Road,Dedicated Desk
+BLR/RR/CL/00/003,00,,1,No,,Yes,Residency Road,Lounge
+BLR/RR/CL/00/006,00,,1,No,,Yes,Residency Road,Lounge
+BLR/RR/CL/00/005,00,,1,No,,Yes,Residency Road,Lounge
+BLR/RR/CL/00/001,00,,1,No,,Yes,Residency Road,Lounge
+BLR/RR/CL/00/008,00,,1,No,,Yes,Residency Road,Lounge
+BLR/RR/CL/00/007,00,,1,No,,Yes,Residency Road,Lounge
+BLR/RR/CL/00/002,00,,1,No,,Yes,Residency Road,Lounge
+BLR/RR/CL/00/004,00,,1,No,,Yes,Residency Road,Lounge
+BLR/RR/CP/00/026,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/027,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/028,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/029,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/030,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/031,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/032,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/033,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/034,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/035,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/036,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/037,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/038,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/039,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/040,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/041,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/042,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/043,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/044,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/045,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/046,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/047,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/048,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/049,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/050,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/051,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/052,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/053,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/054,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/055,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/056,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/057,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/058,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/001,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/002,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/003,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/004,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/005,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/006,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/007,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/008,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/009,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/010,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/011,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/012,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/013,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/014,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/015,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/059,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/060,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/061,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/062,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/063,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/064,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/065,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/066,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/067,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/068,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/069,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/070,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/071,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/072,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/073,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/074,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/075,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/076,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/077,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/078,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/079,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/080,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/081,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/082,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/083,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/084,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/085,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/086,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/087,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/088,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/089,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/090,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/091,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/092,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/093,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/094,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/095,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/096,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/097,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/098,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/099,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/100,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/101,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/102,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/103,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/104,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/105,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/106,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/107,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/108,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/109,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/110,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/111,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/112,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/113,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/114,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/115,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/116,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/117,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/118,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/119,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/120,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/121,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/122,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/123,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/124,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/125,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/126,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/127,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/128,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/129,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/130,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/016,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/017,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/018,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/019,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/020,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/021,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/022,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/023,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/024,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/RR/CP/00/025,N/A,,1,0,,1,Residency Road,Car Parking
+BLR/IN/PSDD/00/026,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/IN/PSDD/00/025,00,,1,No,No,Yes,CoWrks New Indiranagar,Dedicated Desk
+BLR/EW/IN/PS/00/001,00,,4,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/IN/PS/00/011,00,,6,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/IN/PS/00/003,00,,8,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/IN/PS/05/011,05,,4,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/IN/PS/05/010,05,,8,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/001,01,,3,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/002,01,,6,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/003,01,,15,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/004,01,,8,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/005,01,,8,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/006,01,,6,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/007,01,,4,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/008,01,,4,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/009,01,,8,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/010,01,,8,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/011,01,,4,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/012,01,,2,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/013,01,,2,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/014,01,,4,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/015,01,,7,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/016,01,,6,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/017,01,,12,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/018,01,,14,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/019,01,,12,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/020,01,,12,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/021,01,,7,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/022,01,,10,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/023,01,,10,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/024,01,,10,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/025,01,,9,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/026,01,,9,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/027,01,,10,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/028,01,,4,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/029,01,,7,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/030,01,,8,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/031,01,,8,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/032,01,,7,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/033,01,,2,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/034,01,,6,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/035,01,,6,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/036,01,,3,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/037,01,,6,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/038,01,,3,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/039,01,,9,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/040,01,,40,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/041,01,,11,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/042,01,,6,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/043,01,,12,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/044,01,,12,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/045,01,,11,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/046,01,,12,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/047,01,,3,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/048,01,,6,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/049,01,,12,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/050,01,,12,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/051,01,,14,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/01/052,01,,26,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/IN/PS/00/007,00,,6,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/001,00,,10,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/002,00,,10,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/IN/PS/00/002,00,,8,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/003,00,,25,Yes,Yes,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/004,00,,16,Yes,Yes,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/005,00,,12,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/006,00,,6,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/007,00,,6,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/008,00,,6,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/009,00,,6,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/010,00,,6,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/011,00,,6,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/012,00,,4,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/013,00,,8,No,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/014,00,,4,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/015,00,,8,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/016,00,,4,No,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/017,00,,8,No,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/018,00,,4,No,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/00/019,00,,8,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/050,02,,12,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/051,02,,11,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/052,02,,12,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/053,02,,6,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/054,02,,10,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/055,02,,10,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/056,02,,8,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/057,02,,8,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/058,02,,10,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/059,02,,10,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/060,02,,6,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/061,02,,5,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/001,02,,6,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/002,02,,6,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/003,02,,4,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/004,02,,6,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/005,02,,36,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/006,02,,4,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/007,02,,12,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/008,02,,12,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/009,02,,12,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/010,02,,11,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/011,02,,12,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/012,02,,12,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/013,02,,38,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/014,02,,4,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/015,02,,8,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/016,02,,6,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/017,02,,8,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/018,02,,8,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/019,02,,6,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/020,02,,45,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/021,02,,38,Yes,,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/022,02,,64,Yes,,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/023,02,,12,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/024,02,,6,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/025,02,,3,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/026,02,,12,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/027,02,,11,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/028,02,,12,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/029,02,,16,Yes,,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/030,02,,66,Yes,,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/031,02,,10,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/032,02,,10,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/033,02,,10,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/034,02,,10,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/035,02,,4,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/036,02,,3,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/037,02,,4,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/038,02,,4,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/039,02,,2,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/040,02,,3,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/041,02,,2,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/042,02,,6,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/043,02,,6,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/044,02,,3,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/045,02,,3,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/046,02,,6,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/047,02,,11,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/048,02,,6,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/02/049,02,,12,No,,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/IN/PS/05/027,05,,8,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/PS/03/001,03,,81,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/PS/03/002,03,,413,Yes,No,No,RMZ EcoWorld,Private Studio
+BLR/EW/IN/PS/05/002,05,,4,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/IN/PS/00/005,00,,2,No,No,Yes,RMZ EcoWorld,Private Studio
+BLR/EW/IN/DD/00/018,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/IN/DD/00/019,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/IN/DD/00/017,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/IN/DD/00/014,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/IN/DD/00/015,00,,1,,,,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/016,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/012,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/IN/DD/00/010,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/017,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/IN/DD/00/020,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/IN/DD/00/005,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/IN/DD/00/003,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/IN/DD/00/011,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/001,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/002,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/003,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/004,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/005,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/006,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/007,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/008,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/009,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/010,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/011,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/012,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/013,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/014,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/015,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/016,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/017,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/018,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/019,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/020,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/021,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/022,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/023,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/024,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/025,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/026,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/027,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/028,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/029,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/030,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/031,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/032,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/033,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/034,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/035,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/036,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/037,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/038,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/039,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/040,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/041,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/042,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/043,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/044,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/045,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/046,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/047,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/048,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/049,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/050,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/051,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/052,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/053,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/054,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/055,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/056,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/057,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/058,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/059,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/060,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/061,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/062,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/063,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/064,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/065,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/066,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/067,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/068,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/069,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/070,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/071,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/072,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/073,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/074,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/075,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/076,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/077,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/078,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/079,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/01/080,01,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/059,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/060,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/061,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/062,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/063,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/064,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/065,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/066,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/067,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/068,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/069,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/070,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/071,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/072,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/073,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/074,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/075,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/076,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/077,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/078,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/079,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/080,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/081,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/082,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/083,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/084,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/085,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/086,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/087,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/088,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/089,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/090,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/091,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/092,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/093,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/094,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/095,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/096,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/097,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/098,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/099,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/100,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/101,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/102,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/103,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/104,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/105,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/106,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/107,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/108,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/109,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/110,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/001,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/002,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/003,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/004,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/005,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/006,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/007,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/008,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/009,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/010,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/011,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/012,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/013,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/014,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/015,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/016,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/017,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/018,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/019,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/020,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/021,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/022,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/023,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/024,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/025,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/026,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/027,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/028,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/029,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/030,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/031,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/032,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/033,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/034,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/035,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/036,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/037,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/038,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/039,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/040,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/041,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/042,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/043,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/044,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/045,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/046,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/047,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/048,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/049,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/050,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/051,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/052,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/053,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/054,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/055,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/056,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/057,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/02/058,02,,1,No,,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/001,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/002,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/003,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/004,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/005,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/006,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/007,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/008,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/009,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/010,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/011,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/012,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/013,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/014,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/015,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/DD/00/018,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/EW/IN/DD/00/012,00,,1,No,No,Yes,RMZ EcoWorld,Dedicated Desk
+BLR/IN/EW/FD/05/007,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/008,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/006,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/002,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/001,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/004,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/003,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/005,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/009,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/037,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/038,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/039,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/040,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/041,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/042,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/001,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/002,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/003,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/004,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/005,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/006,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/007,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/008,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/009,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/010,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/011,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/012,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/013,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/014,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/015,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/016,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/034,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/035,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/036,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/037,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/038,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/039,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/040,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/041,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/042,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/043,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/044,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/045,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/046,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/047,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/048,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/049,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/050,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/051,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/052,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/053,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/054,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/017,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/018,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/019,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/020,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/021,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/022,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/023,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/024,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/025,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/026,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/027,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/028,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/029,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/030,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/031,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/032,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/01/033,01,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/010,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/021,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/014,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/023,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/025,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/026,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/028,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/029,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/020,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/022,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/024,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/027,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/030,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/017,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/012,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/013,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/011,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/IN/EW/FD/05/018,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/005,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/006,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/007,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/008,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/009,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/010,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/011,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/012,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/013,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/014,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/015,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/016,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/017,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/018,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/019,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/020,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/021,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/022,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/023,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/024,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/025,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/026,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/027,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/028,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/029,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/030,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/031,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/032,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/033,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/034,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/035,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/036,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/001,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/002,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/003,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FD/00/004,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+BLR/EW/FC/00/001,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Chair
+BLR/EW/FC/00/002,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Chair
+BLR/EW/FC/00/003,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Chair
+BLR/EW/FC/00/004,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Chair
+BLR/EW/FC/00/005,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Chair
+BLR/EW/FC/00/006,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Chair
+BLR/EW/FC/00/007,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Chair
+BLR/EW/FC/00/008,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Chair
+BLR/EW/FC/00/009,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Chair
+BLR/EW/FC/00/010,00,,1,No,No,Yes,RMZ EcoWorld,Flexible Chair
+Community Lounge,N/A,,1,,,,RMZ EcoWorld,Lounge
+Community Lounge - 1,N/A,N/A,1,,,,RMZ EcoWorld,Lounge
+Virtual Office,N/A,N/A,1,,,,RMZ EcoWorld,Lounge+
+Day Pass 1st Floor,N/A,N/A,1,,,,RMZ EcoWorld,Day Pass
+Day Pass,N/A,N/A,1,,,,RMZ EcoWorld,Day Pass
+BLR/EW/CPGF/168,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPGF/169,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPGF/170,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPGF/171,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPGF/172,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPGF/173,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPGF/174,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPGF/175,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPGF/182,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPGF/183,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/25,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/26,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/27,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/28,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/29,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/30,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/31,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/32,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/39,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/40,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/41,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/42,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/43,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/44,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/45,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/46,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/47,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/48,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/230,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/231,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/232,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/233,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/234,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/235,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/236,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/237,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/238,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/239,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/240,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/241,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/242,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/243,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/270,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/271,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/272,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/273,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/274,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/275,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/968,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/969,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/970,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/971,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/972,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/973,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/974,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/975,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/976,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/977,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/978,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/979,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/980,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/981,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/982,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/983,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/984,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/985,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/986,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/987,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP309,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP310,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP311,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP312,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP313,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP314,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP315,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP316,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP317,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP318,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP319,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP320,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP321,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP322,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP323,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP324,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP325,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP326,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP327,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP328,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP425,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP426,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP427,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP428,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP429,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP430,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP431,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP432,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP433,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/MP434,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP94,N/A,,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP95,N/A,,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP96,N/A,,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP97,N/A,,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP98,N/A,,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP99,N/A,,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP100,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP101,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP102,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP103,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP104,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP105,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP106,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP107,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP108,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP109,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP110,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP111,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP112,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP113,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP114,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP115,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP116,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP117,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP118,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP119,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP210,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP211,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP212,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP213,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP214,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP215,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP216,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP217,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP218,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP219,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP220,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP221,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP222,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP223,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP224,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP225,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP226,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP227,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP228,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB2/MP229,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/252,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/253,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/254,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/255,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/256,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/257,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/258,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/259,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/260,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/261,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/285,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPB1/286,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/009,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/010,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/011,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/012,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/013,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/014,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/015,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/016,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/017,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/018,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/019,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/020,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/234,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/235,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/236,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/237,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/238,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/239,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/240,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/241,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/242,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/243,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/244,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/245,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/246,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/247,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/248,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/249,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/250,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/251,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/005,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/006,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/007,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CP3/008,N/A,N/A,1,,,,RMZ EcoWorld,Car Parking
+BLR/EW/CPGF/153.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/153.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/154.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/154.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/154.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/154.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/155.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/155.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/155.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/155.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/156.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/156.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/156.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/156.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/157.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/157.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/157.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/157.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/158.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/158.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/158.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/158.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/159.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/159.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/159.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/159.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/160.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/160.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/160.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/160.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/161.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/161.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/161.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/161.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/164.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/164.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/164.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/164.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/165.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/165.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/165.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/165.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/166.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/166.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/166.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/166.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/167.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/167.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/167.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/167.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/251.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/251.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/251.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/251.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/148.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/148.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/148.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/148.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/149.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/149.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/149.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/149.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/150.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/150.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/150.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/150.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/151.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/151.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/151.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/151.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/152.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/152.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/152.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/152.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/153.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPGF/153.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/242.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/242.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/242.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/242.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/243.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/243.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/243.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/243.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/244.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/244.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/244.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/244.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/245.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/245.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/245.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/245.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/246.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/246.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/246.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/246.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/247.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/247.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/247.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/247.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/250.1,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/250.2,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/250.3,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/CPB1/250.4,N/A,N/A,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/001.1,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/001.2,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/001.3,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/001.4,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/002.1,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/002.2,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/002.3,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/002.4,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/003.1,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/003.2,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/003.3,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/003.4,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/004.1,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/004.2,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/004.3,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+BLR/EW/BP3/004.4,N/A,,1,,,,RMZ EcoWorld,Bike Parking
+Telephony 1st Floor,N/A,N/A,1,,,,RMZ EcoWorld,Telephony
+Telephony,N/A,N/A,1,,,,RMZ EcoWorld,Telephony
+Mail and Package Handling,N/A,N/A,1,,,,RMZ EcoWorld,Mail and Package Handling
+Virtual Receptionist 1st floor,N/A,N/A,1,,,,RMZ EcoWorld,Virtual Receptionist
+Virtual Receptionist,N/A,N/A,1,,,,RMZ EcoWorld,Virtual Receptionist
+External Signage 1st Floor,N/A,N/A,1,,,,RMZ EcoWorld,External Signage
+External Signage,N/A,,1,,,,RMZ EcoWorld,External Signage
+BLR/EW/00/ES 1F,N/A,N/A,1,,,,RMZ EcoWorld,Event Space
+BLR/EW/00/ES,N/A,N/A,1,,,,RMZ EcoWorld,Event Space
+BLR/EW/VO/00/004,N/A,,1,,,,RMZ EcoWorld,Virtual Office
+BLR/EW/VO/00/003,N/A,,1,,,,RMZ EcoWorld,Virtual Office
+BLR/EW/VO/00/001,N/A,,1,,,,RMZ EcoWorld,Virtual Office
+BLR/EW/VO/00/005,N/A,,1,,,,RMZ EcoWorld,Virtual Office
+BLR/EW/VO/00/002,N/A,,1,,,,RMZ EcoWorld,Virtual Office
+BLR/EW/VO/00/009,N/A,,1,,,,RMZ EcoWorld,Virtual Office
+BLR/EW/VO/00/010,N/A,,1,,,,RMZ EcoWorld,Virtual Office
+BLR/EW/VO/00/006,N/A,,1,,,,RMZ EcoWorld,Virtual Office
+BLR/EW/VO/00/007,N/A,,1,,,,RMZ EcoWorld,Virtual Office
+BLR/EW/VO/00/008,N/A,,1,,,,RMZ EcoWorld,Virtual Office
+Virtual Office - EW,N/A,N/A,1,,,,RMZ EcoWorld,Virtual Office
+BLR/EW/LK/01,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/02,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/03,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/04,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/05,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/06,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/07,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/08,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/09,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/10,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/11,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/12,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/13,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/14,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/15,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/16,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/17,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/18,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/19,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/20,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/21,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/22,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/23,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/24,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/25,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/26,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/27,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/28,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/29,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/30,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/31,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/32,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/33,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/34,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/35,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/EW/LK/36,N/A,N/A,1,,,,RMZ EcoWorld,Lockers
+BLR/NT/PS/01/001,01,,3,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/002,01,,14,Yes,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/003,01,,14,Yes,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/004,01,,13,Yes,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/005,01,,6,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/006,01,,6,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/007,01,,6,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/008,01,,6,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/009,01,,6,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/010,01,,6,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/011,01,,10,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/012,01,,14,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/013,01,,12,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/014,01,,7,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/015,01,,4,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/016,01,,10,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/017,01,,14,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/018,01,,10,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/019,01,,22,No,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/PS/01/020,01,,22,Yes,No,No,RMZ NXT - Whitefield,Private Studio
+BLR/NT/DD/01/001,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/002,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/003,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/004,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/005,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/006,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/007,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/008,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/009,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/010,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/011,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/012,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/013,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/014,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/015,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/016,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/017,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/018,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/019,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/020,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/021,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/022,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/023,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/024,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/025,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/026,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/027,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/028,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/029,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/030,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/031,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/032,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/033,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/034,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/035,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/036,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/037,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/038,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/DD/01/039,01,,1,No,No,Yes,RMZ NXT - Whitefield,Dedicated Desk
+BLR/NT/CP/1BSA/001,N/A,N/A,1,,,,RMZ NXT - Whitefield,Car Parking
+BLR/NT/CP/1BSA/002,N/A,N/A,1,,,,RMZ NXT - Whitefield,Car Parking
+BLR/NT/CP/1BSA/003,N/A,N/A,1,,,,RMZ NXT - Whitefield,Car Parking
+BLR/NT/CP/1BSA/004,N/A,N/A,1,,,,RMZ NXT - Whitefield,Car Parking
+BLR/NT/CP/1BSA/005,N/A,N/A,1,,,,RMZ NXT - Whitefield,Car Parking
+BLR/NT/CP/1BSA/006,N/A,N/A,1,,,,RMZ NXT - Whitefield,Car Parking
+BLR/NT/CP/2CLP/007,N/A,N/A,1,,,,RMZ NXT - Whitefield,Car Parking
+BLR/NT/CP/2CLP/008,N/A,N/A,1,,,,RMZ NXT - Whitefield,Car Parking
+BLR/NT/CP/2CLP/009,N/A,N/A,1,,,,RMZ NXT - Whitefield,Car Parking
+BLR/NT/CP/2CLP/010,N/A,N/A,1,,,,RMZ NXT - Whitefield,Car Parking
+BLR/NT/CP/2CLP/011,N/A,N/A,1,,,,RMZ NXT - Whitefield,Car Parking
+BLR/NT/CP/2CLP/012,N/A,N/A,1,,,,RMZ NXT - Whitefield,Car Parking
+BLR/NT/CP/2CLP/013,N/A,N/A,1,,,,RMZ NXT - Whitefield,Car Parking
+BLR/NT/BP/1BGF/001.1,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NT/BP/1BGF/002.1,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NT/BP/1BGF/003.1,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NT/BP/1BGF/004.1,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NT/BP/1BGF/001.2,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NT/BP/1BGF/002.2,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NXT/BP/1BGF/003.2,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NXT/BP/1BGF/004.2,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NXT/BP/1BGF/001.3,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NXT/BP/1BGF/002.3,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NXT/BP/1BGF/003.3,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NXT/BP/1BGF/004.3,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NXT/BP/1BGF/001.4,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NXT/BP/1BGF/002.4,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NXT/BP/1BGF/003.4,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NXT/BP/1BGF/004.4,N/A,N/A,1,,,,RMZ NXT - Whitefield,Bike Parking
+BLR/NT/VO/01/001,N/A,,1,,,,RMZ NXT - Whitefield,Virtual Office
+CHN/OP/PS/00/011,00,,8,No,No,Yes,RMZ One Paramount,Private Studio
+BLR/IN/EW/FD/05/019,05,,1,No,No,Yes,RMZ EcoWorld,Flexible Desk
+CHN/OP/PS/00/001,00,,13,Yes,No,No,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/002,00,,14,Yes,No,No,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/003,00,,13,Yes,No,No,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/004,00,,14,Yes,No,No,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/005,00,,14,Yes,No,No,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/006,00,,13,Yes,No,No,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/007,00,,14,Yes,No,No,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/008,00,,25,Yes,No,No,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/009,00,,23,Yes,No,No,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/010,00,,4,No,No,Yes,RMZ One Paramount,Private Studio
+BLR/EW/PS/03/WC,N/A,N/A,360,Yes,,,RMZ EcoWorld,Private Studio
+CHN/OP/PS/00/012,00,,8,No,No,Yes,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/013,00,,8,No,No,Yes,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/014,00,,7,No,No,Yes,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/015,00,,8,No,No,Yes,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/016,00,,8,No,No,Yes,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/017,00,,6,No,No,Yes,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/018,00,,6,No,No,Yes,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/019,00,,5,No,No,Yes,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/020,00,,4,No,No,Yes,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/021,00,,2,No,No,Yes,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/022,00,,36,Yes,No,No,RMZ One Paramount,Private Studio
+CHN/OP/PS/00/023,00,,4,No,No,Yes,RMZ One Paramount,Private Studio
+CHN/OP/FD/00/001,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/002,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/003,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/004,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/005,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/006,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/007,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/008,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/009,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/010,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/011,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/012,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/013,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/014,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/015,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/016,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/017,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/018,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/019,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/020,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/021,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/022,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/023,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/FD/00/024,00,,1,No,No,Yes,RMZ One Paramount,Flexible Desk
+CHN/OP/CP/001,N/A,N/A,1,,,,RMZ One Paramount,Car Parking
+CHN/OP/CP/002,N/A,N/A,1,,,,RMZ One Paramount,Car Parking
+CHN/OP/CP/003,N/A,N/A,1,,,,RMZ One Paramount,Car Parking
+CHN/OP/CP/004,N/A,N/A,1,,,,RMZ One Paramount,Car Parking
+CHN/OP/CP/005,N/A,N/A,1,,,,RMZ One Paramount,Car Parking
+CHN/OP/CP/006,N/A,N/A,1,,,,RMZ One Paramount,Car Parking
+CHN/OP/CP/007,N/A,N/A,1,,,,RMZ One Paramount,Car Parking
+CHN/OP/CP/008,N/A,N/A,1,,,,RMZ One Paramount,Car Parking
+CHN/OP/CP/009,N/A,N/A,1,,,,RMZ One Paramount,Car Parking
+CHN/OP/CP/010,N/A,N/A,1,,,,RMZ One Paramount,Car Parking
+CHN/OP/CP/011,N/A,N/A,1,,,,RMZ One Paramount,Car Parking
+CHN/OP/CP/012,N/A,N/A,1,,,,RMZ One Paramount,Car Parking
+CHN/OP/CP/013,N/A,N/A,1,,,,RMZ One Paramount,Car Parking
+CHN/OP/CP/014,N/A,N/A,1,,,,RMZ One Paramount,Car Parking
+CHN/OP/BP/007,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/008,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/009,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/010,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/011,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/012,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/013,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/014,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/015,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/016,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/017,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/018,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/019,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/020,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/021,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/022,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/023,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/024,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/001,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/002,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/003,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/004,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/005,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/BP/006,N/A,N/A,1,,,,RMZ One Paramount,Bike Parking
+CHN/OP/VO/00/001,N/A,,1,,,,RMZ One Paramount,Virtual Office
